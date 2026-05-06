@@ -1,0 +1,3 @@
+[submodule "crm"]
+	path = crm
+	url = https://github.com/yaronejami730-debug/crm.git
